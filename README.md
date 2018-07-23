@@ -1,7 +1,7 @@
-﻿# spring-boot-redis
+﻿# sofa-boot-redis
 
 ## 关于
-spring-boot-redis是spring-boot的web示例，基于maven的工程。
+sofa-boot-redis是spring-boot的web示例，基于maven的工程。
 
 ## 二、功能简介
 
